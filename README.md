@@ -28,4 +28,5 @@ Prepared using [Roboflow](https://roboflow.com). Contains labeled images of Rock
 3. Run all cells sequentially
 
 ## Notebook
-[Open in Google Colab](https://colab.research.google.com/drive/186UNzNpEacIDBIxQhhW9gvrVJapc3VD5?usp=sharing)
+- 📓 View on GitHub: `rock_paper_scissors_yolo.ipynb` (above)
+- ▶️ Run in Colab: [Open in Google Colab](https://colab.research.google.com/drive/186UNzNpEacIDBIxQhhW9gvrVJapc3VD5?usp=sharing)
