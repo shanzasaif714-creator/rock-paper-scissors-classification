@@ -27,8 +27,9 @@ Prepared and labeled using [Roboflow](https://roboflow.com).Contains labeled ima
 
 ## How to Run
 1. Open the notebook in Google Colab
-2. Upload your dataset
-3. Run all cells sequentially
+2. Connect to T4 GPU
+3. Upload your dataset
+4. Run all cells sequentially
 
 ## Notebook
 - 📓 View on GitHub: `rock_paper_scissors_yolo.ipynb` (above)
