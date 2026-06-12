@@ -16,15 +16,18 @@ An image classification system that recognizes **Rock**, **Paper**, **Scissors**
 
 ## Project Structure
 - `rock_paper_scissors_yolo.ipynb` — Full training and inference pipeline
-- `data.yaml` — Dataset configuration
-- `model.pt` — Trained model weights (see Google Drive link below if not in repo)
+
+## Model Weights
+The trained model weights (`model.pt`) are not included in this repository due to file size.  
+📩 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shanza-saif-704709357/) to request the model file.
 
 ## Dataset
-Prepared using [Roboflow](https://roboflow.com). Contains labeled images of Rock, Paper, Scissors, and Empty hand gestures.
+Prepared and labeled using [Roboflow](https://roboflow.com).Contains labeled images of Rock, Paper, Scissors, and Empty hand gestures.  
+📦 [View Dataset on Roboflow](https://universe.roboflow.com/object-detection-kyovl/paper-rock-scissor-axlz6-0jskf) 
 
 ## How to Run
 1. Open the notebook in Google Colab
-2. Upload `data.yaml` and your dataset
+2. Upload your dataset
 3. Run all cells sequentially
 
 ## Notebook
